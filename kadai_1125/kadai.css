@@ -1,0 +1,56 @@
+.weather{
+  text-align: center;
+}
+
+.img{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#tokyoImg{
+  width: 150px;
+  height: 150px;
+}
+
+
+#nagoyaImg{
+  width: 150px;
+  height: 150px;
+}
+
+#osakaImg{
+  width: 150px;
+  height: 150px;
+}
+
+.click{
+  color: red;
+  font-weight: bold;
+  background-color: yellow;
+}
+
+.btn{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#tokyo{
+  width: 100px;
+  height: 50px;
+}
+
+#nagoya{
+  width: 100px;
+  height: 50px;
+}
+
+#osaka{
+  width: 100px;
+  height: 50px;
+}
+
+#tommorow{
+  font-size: 20px;
+}
